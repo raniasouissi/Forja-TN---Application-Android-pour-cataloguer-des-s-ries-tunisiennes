@@ -1,10 +1,37 @@
-# Kotlin_CustomRecyclerView
-This app is implementing clickable custom Recycler View.It uses customRecyclerViewAdapter.When you click the item it takes you to another screen by using intent and along with that data is passed in intent using putExtras
+# Forja TN  
+**Application Android pour cataloguer des séries tunisiennes**  
 
-Screen 1(RecyclerView)
+Forja TN est une application Android statique, développée en Kotlin avec Android Studio, permettant de cataloguer et d'explorer les séries tunisiennes.  
 
-![Screenshot_2021-10-18-13-05-15-143_com e kotlin_recyclerview](https://user-images.githubusercontent.com/42180940/137688919-b58a1282-328b-47fc-a7e9-deb988442086.png)
+---
 
-Screen 2(After Clicking on Recycler View Item Data is Passed to another Activity)
+## Fonctionnalités principales  
+- Affichage d'une liste de séries tunisiennes.  
+- Informations détaillées pour chaque série : titre, année, synopsis, etc.  
 
-![Screenshot_2021-10-18-13-05-26-331_com e kotlin_recyclerview](https://user-images.githubusercontent.com/42180940/137689001-c05815e2-b1ff-4816-a590-96b5570dabcb.png)
+
+---
+
+## Aperçu de l'application  
+
+### **Écran d'accueil**  
+![Écran d'accueil](./assets/pag1)  
+*Description : Aperçu de la liste des séries.*  
+
+### **Détail d'une série**  
+![Détails de la série](./assets/page5)  
+*Description : Informations détaillées sur une série spécifique.*  
+
+---
+
+## Technologies utilisées  
+- **Langage :** Kotlin  
+- **IDE :** Android Studio  
+- **Architecture :** Application statique  
+
+---
+
+## Installation et exécution  
+1. Clonez ce dépôt :  
+   ```bash  
+   git clone https://github.com/raniasouissi/Forja-TN---Application-Android-pour-cataloguer-des-s-ries-tunisiennes.git  

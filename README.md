@@ -20,7 +20,7 @@ Forja TN est une application Android statique, développée en Kotlin avec Andro
 
 ### **Détail d'une série**  
 ![Détails de la série](assets/page7.jpg)  
-*Description : Informations détaillées sur une série spécifique.*  
+
 
 ---
 

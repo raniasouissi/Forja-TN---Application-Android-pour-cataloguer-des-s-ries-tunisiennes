@@ -1,37 +1,34 @@
 # Forja TN  
-**Application Android pour cataloguer des séries tunisiennes**  
+**Android Application for Cataloging Tunisian TV Series**  
 
-Forja TN est une application Android statique, développée en Kotlin avec Android Studio, permettant de cataloguer et d'explorer les séries tunisiennes.  
-
----
-
-## Fonctionnalités principales  
-- Affichage d'une liste de séries tunisiennes.  
-- Informations détaillées pour chaque série : titre, année, synopsis, etc.  
-
+Forja TN is a static Android application, developed in Kotlin with Android Studio, allowing users to catalog and explore Tunisian TV series.  
 
 ---
 
-## Aperçu de l'application  
-
-### **Écran d'accueil**  
-![Écran d'accueil](assets/pag1.jpg)  
-*Description : Aperçu de la liste des séries.*  
-
-### **Détail d'une série**  
-![Détails de la série](assets/page7.jpg)  
-
+## Main Features  
+- Display a list of Tunisian TV series.  
+- Detailed information for each series: title, year, synopsis, etc.  
 
 ---
 
-## Technologies utilisées  
-- **Langage :** Kotlin  
-- **IDE :** Android Studio  
-- **Architecture :** Application statique  
+## Application Preview  
+
+### **Home Screen**  
+![Home Screen](assets/pag1.jpg)  
+
+### **Series Details**  
+![Series Details](assets/page7.jpg)  
 
 ---
 
-## Installation et exécution  
-1. Clonez ce dépôt :  
+## Technologies Used  
+- **Language:** Kotlin  
+- **IDE:** Android Studio  
+- **Architecture:** Static Application  
+
+---
+
+## Installation & Execution  
+1. Clone this repository:  
    ```bash  
-   git clone https://github.com/raniasouissi/Forja-TN---Application-Android-pour-cataloguer-des-s-ries-tunisiennes.git  
+   git clone https://github.com/raniasouissi/Forja-TN---Android-Application-for-Cataloging-Tunisian-TV-Series.git  
